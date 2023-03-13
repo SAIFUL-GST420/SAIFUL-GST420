@@ -63,7 +63,7 @@
 
 - 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Saiful+Here;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;Respect+SAIFUL-GST420;It's+my+real+github+account;Please+Follow+My+GitHub;Thanks+My+All+Friend;Love+From+Bangladesh;SAIFUL VAI GST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+CEO+SAIFUL;SAIFUL+GST;SAIFUL+CEO;REAL+FB+KING)](https://git.io/typing-svg)
 <br/>
 <br/>
 <br/>
