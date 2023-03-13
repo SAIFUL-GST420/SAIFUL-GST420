@@ -19,10 +19,6 @@
   
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<center>
-<a href="https://www.facebook.com/gangstter.ceo" target="_blank"><img src="https://github.com/SAIFUL-GST420/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a> <a href="https://youtube.com/@SR.SAIFUL"><img src="https://github.com/SAIFUL-GST420/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSAIFUL-YOUR-PAPA%2Fgithub-SAIFUL-GST420"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSAIFUL-YOUR-PAPA%2Fhttps://github/SAIFUL-GST420&label=SAIFUL'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
-<center>
 
 - 😏 𝐍𝐀𝐌𝐄:- SAIFUL VAI
 
