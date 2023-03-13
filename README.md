@@ -51,4 +51,4 @@ Skills: PYTHON & HTML
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/SAIFUL-GST420) <br>
 
-<h2> THANKS FOR VISIT <h2\>###
+<h2> THANKS FOR VISIT <h2\>
